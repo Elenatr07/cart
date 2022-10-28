@@ -1,0 +1,56 @@
+[
+    {
+        "id_product": 123,
+        "product_name": "Платье",
+        "price": 3600,
+        "imgCart": "./img/123.png"
+    },
+    {
+        "id_product": 124,
+        "product_name": "Футболка",
+        "price": 2000,
+        "imgCart": "./img/124.png"
+    },
+    {
+        "id_product": 125,
+        "product_name": "Куртка",
+        "price": 15600,
+        "imgCart": "./img/125.png"
+    },
+    {
+        "id_product": 126,
+        "product_name": "Толстовка",
+        "price": 3000,
+        "imgCart": "./img/126.png"
+    },
+    {
+        "id_product": 127,
+        "product_name": "Рубашка",
+        "price": 4500,
+        "imgCart": "./img/127.png"
+    },
+    {
+        "id_product": 128,
+        "product_name": "Юбка",
+        "price": 4500,
+        "imgCart": "./img/128.png"
+    },
+    {
+        "id_product": 129,
+        "product_name": "Брюки",
+        "price": 4500,
+        "imgCart": "./img/129.png"
+    },
+    {
+        "id_product": 130,
+        "product_name": "Желетка",
+        "price": 4500,
+        "imgCart": "./img/130.png"
+    },
+    {
+        "id_product": 131,
+        "product_name": "Костюм",
+        "price": 4500,
+        "imgCart": "./img/131.png"
+    }
+]
